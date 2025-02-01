@@ -9,7 +9,7 @@ use std::{
 };
 use tokio::time::sleep;
 
-const URL: &str = "https://mangasee123.com/";
+const URL: &str = "https://weebcentral.com/";
 
 // Names taken directly from mangasee123, so they are not snake case. Rename was deemed unnecessary.
 #[derive(Serialize, Deserialize, Debug, Clone)]
