@@ -11,7 +11,7 @@ use std::{
 
 use crate::{chapter::Chapter, types::Thread};
 
-const URL: &str = "https://mangasee123.com/";
+const URL: &str = "https://weebcentral.com/";
 
 // Names taken directly from mangasee123, rename was deemed unnecessary.
 #[derive(Serialize, Deserialize, Debug, Clone)]
